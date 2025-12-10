@@ -1,0 +1,11 @@
+#Virtual environment
+menv/
+
+#Python cache
+__pycache__/
+
+#Logs
+*.log
+
+#Environment file
+.env
